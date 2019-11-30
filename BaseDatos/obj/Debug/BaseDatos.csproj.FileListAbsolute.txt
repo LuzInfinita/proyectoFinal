@@ -1,0 +1,11 @@
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe.config
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\bin\Debug\BaseDatos.pdb
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.VentanaPrincipal.resources
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.Properties.Resources.resources
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.csproj.GenerateResource.Cache
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.exe
+c:\users\maestros\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.VentanaDGV.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.PrePractica2.resources

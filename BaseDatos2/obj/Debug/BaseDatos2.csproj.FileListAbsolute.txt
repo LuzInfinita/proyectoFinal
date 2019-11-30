@@ -1,0 +1,52 @@
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\bin\Debug\BaseDatos2.exe.config
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\bin\Debug\BaseDatos2.exe
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\bin\Debug\BaseDatos2.pdb
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.csprojResolveAssemblyReference.cache
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Properties.Resources.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.VentanaPrincipal.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.csproj.GenerateResource.Cache
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.exe
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.pdb
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Empleados.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaEmpleado.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Clientes.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaCliente.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaProveedor.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Proveedores.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\BaseDatos\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Productos.resources
+E:\BaseDatos(1)\BaseDatos2\bin\Debug\BaseDatos2.exe.config
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.exe
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.pdb
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.csprojResolveAssemblyReference.cache
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaCliente.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaEmpleado.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaPracticas4.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaProveedor.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Clientes.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Empleados.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Properties.Resources.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Practica4.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Productos.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Proveedores.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.VentanaPrincipal.resources
+E:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.csproj.GenerateResource.Cache
+E:\BaseDatos(1)\BaseDatos2\bin\Debug\BaseDatos2.exe
+E:\BaseDatos(1)\BaseDatos2\bin\Debug\BaseDatos2.pdb
+D:\BaseDatos(1)\BaseDatos2\bin\Debug\BaseDatos2.exe.config
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.exe
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.pdb
+D:\BaseDatos(1)\BaseDatos2\bin\Debug\BaseDatos2.exe
+D:\BaseDatos(1)\BaseDatos2\bin\Debug\BaseDatos2.pdb
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.csprojResolveAssemblyReference.cache
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaCliente.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaEmpleado.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaPracticas4.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.AgregaEditaProveedor.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Clientes.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Empleados.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Properties.Resources.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Practica4.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Productos.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.Vistas.Proveedores.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.VentanaPrincipal.resources
+D:\BaseDatos(1)\BaseDatos2\obj\Debug\BaseDatos2.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+E:\BaseDatos(1)\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+E:\BaseDatos(1)\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+E:\BaseDatos(1)\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.Cache
+E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
