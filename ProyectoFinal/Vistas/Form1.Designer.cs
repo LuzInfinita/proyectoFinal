@@ -1,6 +1,6 @@
 ﻿namespace ProyectoFinal
 {
-    partial class Form1
+    partial class ventanaInicial
     {
         /// <summary>
         /// Required designer variable.
@@ -140,7 +140,7 @@
             this.btnRegistrar.Text = "Registrarse";
             this.btnRegistrar.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // ventanaInicial
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -157,7 +157,7 @@
             this.Controls.Add(this.txtBoxCrearNombre);
             this.Controls.Add(this.txtBoxApellidos);
             this.Controls.Add(this.txtBoxNombre);
-            this.Name = "Form1";
+            this.Name = "ventanaInicial";
             this.Text = "Inicio de sesión";
             this.ResumeLayout(false);
             this.PerformLayout();

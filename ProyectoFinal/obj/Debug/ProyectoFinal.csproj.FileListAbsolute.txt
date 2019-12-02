@@ -7,3 +7,12 @@ E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resou
 E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.Cache
 E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.exe
 E:\BaseDatos(1)\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ventanaInicial.resources
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\usuario\Desktop\proyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.Cache
